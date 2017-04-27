@@ -25,7 +25,7 @@ keytool -genkey -v -keystore android.keystore -alias android -keyalg RSA -keysiz
   key.alias.password=<YOUR_ALIAS password>
 ```
 
-6. Phát hành ứng dụng apk
+6. Release ứng dụng apk
 ```js
 ionic build android --release
 ```
