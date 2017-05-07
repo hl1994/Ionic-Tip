@@ -10,7 +10,7 @@ Example:
 ### Postman
 GET
 ```js
-https://apps.ionic.io/api/v1/apps/{App ID}</code>
+https://apps.ionic.io/api/v1/apps/{App ID}
 ```
 Headers
 ```js
